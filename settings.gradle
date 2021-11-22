@@ -1,2 +1,3 @@
 rootProject.name = "gitpack"
 include ':app'
+include ':math'
