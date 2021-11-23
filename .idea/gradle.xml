@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/math" />
+            <option value="$PROJECT_DIR$/mymvvm" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
